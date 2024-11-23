@@ -1,0 +1,20 @@
+{
+  "name": "soulcenter",
+  "version": "1.0.0",
+  "description": "Detalhes para adicionar: - Dar npm install em TUDO q for necessário para rodar o app.js (incluindo o node) - Criar uma pasta uploads na main",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7"
+  }
+}

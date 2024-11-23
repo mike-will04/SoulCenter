@@ -1,0 +1,15 @@
+.carousel-item img {
+    width: 100%;
+    height: 65vh;
+  }
+  .carousel-inner {
+    width: 100%;
+  }
+  .nav-link:hover,
+  .nav-link:active {
+    color: rgb(182, 182, 182) !important;
+  }
+  .nav-link:active {
+    color: white;
+    text-decoration: none !important;
+  }
