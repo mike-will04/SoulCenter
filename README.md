@@ -85,7 +85,7 @@ Antes de começar, certifique-se de ter os seguintes requisitos instalados:
 
 ## 📑 Documentação
 
-Você pode acessar a documentação completa [aqui](./Documentação de Telas e Códigos.pdf).
+Você pode acessar a documentação completa [aqui](./Documentação-de-Telas-e-Códigos.pdf).
 
 ## 📄 Licença
 
