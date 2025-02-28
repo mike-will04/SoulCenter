@@ -70,7 +70,7 @@ Antes de começar, certifique-se de ter os seguintes requisitos instalados:
    ```
 3. Instale as dependências do projeto:
    ```sh
-   npm install [dependêcia]
+   npm install
    ```
 4. Configure o banco de dados importando o arquivo `banconode.sql`.
 5. Execute o arquivo `app.js`:
