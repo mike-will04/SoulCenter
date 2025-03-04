@@ -62,11 +62,11 @@ Antes de começar, certifique-se de ter os seguintes requisitos instalados:
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/mike-will04/SoulCenter.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd nome-do-repositorio
+   cd SoulCenter
    ```
 3. Instale as dependências do projeto:
    ```sh
